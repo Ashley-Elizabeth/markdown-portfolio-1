@@ -1,2 +1,2 @@
-Replace![Placeholder image of Ashley](https://via.placeholder.com/640x960)
+Replace![Placeholder image of Ashley](https://via.placeholder.com/320x480)
 
